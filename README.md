@@ -1,5 +1,8 @@
-### Hi I'm Von 👋
-⚡DevOps Engineer 
+### Hi, I'm Von 👋
+
+<img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
+<p><em>Electronics and Communication Engineering Graduate <img src="https://media.giphy.com/media/ghg6EzNlZWUdvmH30J/giphy.gif" width="30"> </br> DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 ### 💬 Connect with me ...
 

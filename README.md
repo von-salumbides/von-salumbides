@@ -7,6 +7,8 @@
 ### 💬 Connect with me ...
 
 [![Linkedin: vonsalumbides](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/von-salumbides-1a7b731b1)
+<a href="mailto:vonsalumbides.devops@gmail.com?subject=Hi! Found you on Github!" rel="nofollow noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=20> </a> <img src="https://komarev.com/ghpvc/?username=von-salumbides" alt="vonsalumbides" /> 
+
 <!--
 **von-salumbides/von-salumbides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

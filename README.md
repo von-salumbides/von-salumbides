@@ -1,8 +1,8 @@
-### Hi, I'm Von 👋
+<h1>Hi, I'm Von <img src="https://media.giphy.com/media/RxAdKu5nrs32vhKEUq/giphy.gif" width="30"></h1>
 
 <img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 <p><em>Electronics and Communication Engineering Graduate <img src="https://media.giphy.com/media/ghg6EzNlZWUdvmH30J/giphy.gif" width="30"> </br> DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+</em></p> </br></br>
 
 ### 💬 Connect with me ...
 
